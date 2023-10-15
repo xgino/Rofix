@@ -1,5 +1,17 @@
 
 
+### NAME
+
+Thining of name:
+Refix
+
+Sparky
+Dyno
+Zippy
+Perfy
+optify
+maxify
+
 
 ### Project parts
 -[ ] OPENCV BALL TRACKER
@@ -9,32 +21,56 @@
 
 
 ### ToBuy
--[ ] BLCD Motor                             |   $80
--[ ] Camera ??FPS Refresh rate ??           |   $??
--[ ] Control board                          |   $40
--[ ] ALUMINIUM BARS                         |   $50
--[ ] ROLLING WHEELS                         |   $10
--[ ] KABEL AANTREKKER                       |   $10
--[ ] PLASTIC TARGET BOARD -> SEE THROUG     |   $180 3d printer
-=========================================   |   $360 sub total
--[ ] Other items 20%                        |   $72
--[ ] reserve costs 10%                      |   $43
-=========================================   |   $475 Total costs
+-`[X]` BLCD Motor                             |   $80 -> bought for     $20
+-`[ ]` Camera ??FPS Refresh rate ??           |   $??
+-`[X]` Control board                          |   $40 -> bought for     $20
+-`[X]` ALUMINIUM BARS                         |   $50 -> bought for     $30 Still add other $40
+-`[X]` ROLLING WHEELS                         |   $10 -> bought for     $15 
+-`[X]` KABEL AANTREKKER                       |   $10 -> bought for     $5
+-`[ ]` PLASTIC TARGET BOARD -> SEE THROUG     |   $180 3d printer
+=========================================     |   $360 sub total
+-`[ ]` Other items 20%                        |   $72
+-`[ ]` reserve costs 10%                      |   $43
+=========================================     |   $475 Total costs
+
+
+                                                                        Spend $140 ??
 
 
 ### Items instock
 Ur brokkie, Noob.
 
 ### Planning project
-building Opencv Floorball detection
-Get minimun aluminium bars and other hardware parts to build prototype
-configure the motor, board and hardware to move to desire location with mouse cords.
-Build full prototype Model. Test all aspects with Tracker
-Order remaining hardware items to finish the build
-Final Test of full workings machine
-finish design, clean code, #seleton version
-Last test of Skeleton version 01 of BOT
-========= To Be Continue =========
+#### Prototype v1
+-`[v0.1]` Minimum aluminium bars
+-`[v0.2]` Get parts
+-`[ ]` Wood
+-`[ ]` Mount Motor A + B
+-`[ ]` Motor Cabel + wheels
+-`[ ]` Test cordinations with mouse or smt
+-`[ ]` Maybe Delayed, move to new spot?
+
+#### Prototype v2
+-`[ ]` Add Camera
+-`[ ]` Deeplearning model Floorball Tracking
+-`[ ]` Spring or vibration sensor to move new location on impact
+-`[ ]` Upgrade software speed
+-`[ ]` Software = 1. Target shot
+
+#### Prototype v3
+-`[ ]` Replace Wood with aluminium bars
+-`[ ]` Upgrade to foldable setup
+-`[ ]` upgrade detection hardware.
+-`[ ]` Add Motor, tilt plate direction.
+-`[ ]` Add program,  2. Shot + Rebounder
+
+#### Prototype v4
+-`[ ]` Deep learning mimic Real player. Software: 3. Area shot, plate block all not area.
+-`[ ]` Player tracking + score remember.
+-`[ ]` Add display
+
+
+
 
 
 ### Todo
